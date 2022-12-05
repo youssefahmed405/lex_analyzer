@@ -1,0 +1,20 @@
+//are kdbasjdna,mnsd
+#include <stdlib>
+//asdbjvasjda sdhabskd asjbhdhas dhasdb
+/* hagsdjksahdakjnsdjnajsd sld;fk sdlkfns dflnsldkf 
+dasjdkjasdjkasdnsadlksdnf 
+dkljasnjkdhakjgsdkj agdbjkhd a*/
+
+//dasjldh akjsdhakjsd amgsjgdkhadsf
+int main()
+{
+	cout << lol; //jkqhsdha dajskhbd
+	f != q;
+	float u = 12.34;
+	string 5nsjdf = "adjnasjdjn ajskdh";
+	int xaosdhaj = 0;
+	k = 93323/21121;
+	printf("%d",x);
+}
+
+float number
